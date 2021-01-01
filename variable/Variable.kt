@@ -1,6 +1,6 @@
-package com.KotlinExample.Variable
+/* package com.KotlinExample.Variable
 
-class Variable() {
+class Variable() { */
 
   fun main () {
     val name: String = "Anthony Jo"
@@ -9,4 +9,4 @@ class Variable() {
     println("name: " + name)
     println("age:  " + age)
   }
-}
+/* } */
